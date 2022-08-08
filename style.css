@@ -219,7 +219,6 @@ footer .boxs:nth-child(4) {
 
     footer .boxs:nth-child(4) {
         width: 100%;
-        text-align: justify;
     }
 }
 
@@ -259,6 +258,10 @@ p {
   max-width: 100%;
   height: auto;
 } 
+
+.audiop {
+    align-items: center;
+}
 
 .audio {
     white-space: pre-wrap;
